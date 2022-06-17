@@ -1,3 +1,3 @@
-a small challenge by **[title](frontendmentor.io)**
+a small challenge by **[frontendmentor.io](http://frontendmentor.io)**
 
 built with **react.js**
