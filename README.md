@@ -1,3 +1,5 @@
 a small challenge by **[frontendmentor.io](http://frontendmentor.io)**
 
-built with **react.js**
+built with pure **react.js**
+
+[preview](./src/assets/images/preview.png)
